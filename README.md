@@ -1,4 +1,5 @@
 # Landing Beta Coderhouse Evento
+Landing page desarrolada en react y typescript
 ## Endpoints
 
 - /
