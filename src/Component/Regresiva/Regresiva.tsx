@@ -29,7 +29,7 @@ function Regresiva() {
                                 CADA VEZ FALTA MENOS
                             </h1>
                             <h1>
-                                <CountDownTimer hours={1} minutes={20} seconds={40}/>
+                                <CountDownTimer hours={70} minutes={20} seconds={40}/>
                             </h1>
                             <p>
                                 cuenta regresiva

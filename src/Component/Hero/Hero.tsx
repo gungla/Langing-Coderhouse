@@ -18,10 +18,9 @@ function Hero() {
                             </a>
                         </div>
                         <div className="col-sm-12 col-md-10 col-lg-10 mt-4">
-                            <Link className="btn btn-info" to="/Exp">Exponentes</Link>
-                        </div>
-                        <div className="col-sm-12 col-md-10 col-lg-10 mt-2">
-                            <Link className="btn btn-info" to="/Regresiva">Countdown</Link>
+                            <Link className="btn btn-info" to="/Regresiva">
+                                Prueba Countdown
+                            </Link>
                         </div>
                     </div>
                 </div>

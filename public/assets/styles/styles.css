@@ -10717,7 +10717,7 @@ span {
   top: 80%;
 }
 
-#customers-testimonials .shadow-effect {
+.shadow-effect {
   background: transparent;
   padding: 20px;
   border-radius: 4px;
@@ -10742,7 +10742,7 @@ span {
   font-weight: 400;
 }
 
-#customers-testimonials .shadow-effect p {
+.shadow-effect p {
   font-family: inherit;
   font-size: 16px;
   line-height: 1.5;
@@ -10751,7 +10751,7 @@ span {
   color: #fff;
 }
 
-#customers-testimonials .testimonial-name {
+.testimonial-name {
   margin: -17px auto 0;
   display: table;
   width: auto;
@@ -10762,7 +10762,7 @@ span {
   text-align: center;
 }
 
-#customers-testimonials .item {
+.item {
   text-align: center;
   padding: 50px;
   margin-bottom: 80px;
