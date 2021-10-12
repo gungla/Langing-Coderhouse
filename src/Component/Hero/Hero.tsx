@@ -1,6 +1,5 @@
 import React from 'react'
-import { Link } from "react-router-dom";
-import Logo from '../Logo/Logo'
+import Logo from '../Logo/Logo' 
 
 function Hero() {
     return (
@@ -10,17 +9,12 @@ function Hero() {
                 <div className="container content-wrap text-center">
                     <div className="row justify-content-md-center">
                         <div className="col-sm-12 col-md-10 col-lg-10">
-                            <h1>
+                            <h1 className="animTitle">
                                 ENTREMOS JUNTOS A ESTA NUEVA DIMNENSIÓN
                             </h1>
-                            <a className="btn btn-primary btn-xl smooth-scroll" href="#Contact">
+                            <a className="btn btn-primary btn-xl smooth-scroll animBtn" href="#Contact">
                                 ¡Inscribite!
                             </a>
-                        </div>
-                        <div className="col-sm-12 col-md-10 col-lg-10 mt-4">
-                            <Link className="btn btn-info" to="/Regresiva">
-                                Prueba Countdown
-                            </Link>
                         </div>
                     </div>
                 </div>
