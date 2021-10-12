@@ -16,13 +16,13 @@ function Apoyan() {
               <div className="row">
                 <div className="col-10 d-flex justify-content-center text-center">
                   <div className="col-md-4 col-sm-6 mt-4 mb-4">
-                    <img src={ma1} alt="Mercado Libre"/>
+                    <img src={ma1} alt="Mercado Libre" className="img-fluid"/>
                   </div>
                   <div className="col-md-4 col-sm-6 mt-4 mb-4">
-                    <img src={ma2} alt="Google"/>
+                    <img src={ma2} alt="Google" className="img-fluid"/>
                   </div>
                   <div className="col-md-4 col-sm-6 mt-4 mb-4">
-                    <img src={ma3} alt="Accenture"/>
+                    <img src={ma3} alt="Accenture" className="img-fluid"/>
                   </div>
                 </div>
               </div>
