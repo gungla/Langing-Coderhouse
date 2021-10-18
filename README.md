@@ -4,7 +4,7 @@ Landing page desarrolada en react y typescript
 
 - /
 - /Exp
-- //Regresiva
+- /Regresiva
 
 ### `npm start`
 http://localhost:3000
